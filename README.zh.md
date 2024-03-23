@@ -15,7 +15,7 @@
   </p>
 </div>
 
-RegexMate is a beautifully designed regex app built exclusively for macOS. With a clean and intuitive interface, it empowers you to craft and test regular expressions with ease.
+RegexMate 是一款专为 macOS 设计的正则表达式应用程序，拥有简洁的用户界面和强大的功能，可帮助您轻松地创建、测试和使用正则表达式。
 
 ![DevHub screenshots-1](./assets/screenshots-1.png)
 
