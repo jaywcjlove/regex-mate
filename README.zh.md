@@ -3,7 +3,7 @@
 	<br />
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
-		<a href="./README.zh.md">中文</a> • 
+		<a href="./README.md">English</a> • 
     <a href="https://apps.apple.com/app/devhub/id6479819388">AppStore</a> • 
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
@@ -19,30 +19,30 @@ RegexMate is a beautifully designed regex app built exclusively for macOS. With 
 
 ![DevHub screenshots-1](./assets/screenshots-1.png)
 
-### Key Features:
+### 主要特点
 
-#### Minimalist UI
+#### 简约的用户界面
 
 ![DevHub screenshots-2](./assets/screenshots-2.png)
 
-Forget buttons and menus. Simply type your pattern, test your expression, and see the results instantly.
+忘记按钮和菜单吧。只需输入您的模式，测试表达式，即可立即查看结果。
 
-#### Reference Table
+#### 参考表
 
 ![DevHub screenshots-3](./assets/screenshots-3.png)
 
-An always-available reference guide with example tutorials in both English and Chinese. Never forget regex syntax again!
+始终可用的参考指南，提供中英文示例教程。再也不用担心忘记正则表达式语法了！
 
-#### Live Preview
+#### 实时预览
 
-See your results update as you type. Input your pattern and watch the results, modify and test your expression to check its validity.
+随着您的输入，立即看到结果更新。输入您的模式并观察结果，修改并测试您的表达式以检查其有效性。
 
-#### Expression Library
+#### 表达式库
 
-Save your frequently used expressions for quick access and reference at any time.
+保存您经常使用的表达式，随时快速访问和参考。
 
-#### Light & Dark Mode
+#### 浅色和深色模式
 
 ![DevHub screenshots-4](./assets/screenshots-3.png)
 
-Love the dark aesthetic? RegexMate has you covered. But if you're craving a fresh look, switch to Light mode anytime.
+喜欢暗色调？RegexMate 应用程序满足您的需求。但如果您想要焕然一新的外观，随时切换到浅色模式。
