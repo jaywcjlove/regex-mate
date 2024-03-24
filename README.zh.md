@@ -43,6 +43,6 @@ RegexMate 是一款专为 macOS 设计的正则表达式应用程序，拥有简
 
 #### 浅色和深色模式
 
-![RegexMate screenshots-4](./assets/screenshots-3.png)
+![RegexMate screenshots-4](./assets/screenshots-4.png)
 
 喜欢暗色调？RegexMate 应用程序满足您的需求。但如果您想要焕然一新的外观，随时切换到浅色模式。

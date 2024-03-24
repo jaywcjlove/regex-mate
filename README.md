@@ -43,6 +43,6 @@ Save your frequently used expressions for quick access and reference at any time
 
 #### Light & Dark Mode
 
-![RegexMate screenshots-4](./assets/screenshots-3.png)
+![RegexMate screenshots-4](./assets/screenshots-4.png)
 
 Love the dark aesthetic? RegexMate has you covered. But if you're craving a fresh look, switch to Light mode anytime.
