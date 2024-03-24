@@ -4,8 +4,8 @@
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
 		<a href="./README.md">English</a> • 
-    <a href="https://apps.apple.com/app/devhub/id6479819388">AppStore</a> • 
-		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+    <a target="_blank" href="https://apps.apple.com/app/devhub/id6479819388">AppStore</a> • 
+		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
 	<h1>RegexMate</h1>
   <!--rehype:style=border: 0;-->
