@@ -35,7 +35,7 @@ jobs:
             - <meta property="og:type" content="website">
             - <meta property="og:title" content="<%= title %> - idoc">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-1.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/twitter.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
@@ -61,6 +61,7 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp assets/twitter.png ./dist/assets
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
