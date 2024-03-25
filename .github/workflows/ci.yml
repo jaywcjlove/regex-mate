@@ -23,6 +23,7 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/regex-mate
+          homepage: https://wangchujiang.com/regex-mate/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
