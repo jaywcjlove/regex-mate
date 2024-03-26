@@ -17,19 +17,17 @@
 
 RegexMate 是一款专为 macOS 设计的正则表达式应用程序，拥有简洁的用户界面和强大的功能，可帮助您轻松地创建、测试和使用正则表达式。
 
-![RegexMate screenshots-1](./assets/screenshots-1.png)
+![RegexMate screenshots-1](./assets/screenshots-1-cn.png)
 
 ### 主要特点
 
 #### 简约的用户界面
 
-![RegexMate screenshots-2](./assets/screenshots-2.png)
+![RegexMate screenshots-2](./assets/screenshots-2-cn.png)
 
 忘记按钮和菜单吧。只需输入您的模式，测试表达式，即可立即查看结果。
 
 #### 参考表
-
-![RegexMate screenshots-3](./assets/screenshots-3.png)
 
 始终可用的参考指南，提供中英文示例教程。再也不用担心忘记正则表达式语法了！
 
@@ -43,6 +41,6 @@ RegexMate 是一款专为 macOS 设计的正则表达式应用程序，拥有简
 
 #### 浅色和深色模式
 
-![RegexMate screenshots-4](./assets/screenshots-4.png)
+![RegexMate screenshots-3](./assets/screenshots-3-cn.png)
 
 喜欢暗色调？RegexMate 应用程序满足您的需求。但如果您想要焕然一新的外观，随时切换到浅色模式。

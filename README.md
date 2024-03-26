@@ -29,8 +29,6 @@ Forget buttons and menus. Simply type your pattern, test your expression, and se
 
 #### Reference Table
 
-![RegexMate screenshots-3](./assets/screenshots-3.png)
-
 An always-available reference guide with example tutorials in both English and Chinese. Never forget regex syntax again!
 
 #### Live Preview
@@ -43,6 +41,6 @@ Save your frequently used expressions for quick access and reference at any time
 
 #### Light & Dark Mode
 
-![RegexMate screenshots-4](./assets/screenshots-4.png)
+![RegexMate screenshots-4](./assets/screenshots-3.png)
 
 Love the dark aesthetic? RegexMate has you covered. But if you're craving a fresh look, switch to Light mode anytime.
