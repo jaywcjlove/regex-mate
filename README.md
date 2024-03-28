@@ -28,9 +28,9 @@ RegexMate is a regular expression application available for macOS and iOS. It fe
 
 #### Minimalist UI
 
-![RegexMate screenshots-2](./assets/screenshots-2.png)
-
 Forget buttons and menus. Simply type your pattern, test your expression, and see the results instantly.
+
+![RegexMate screenshots-2](./assets/screenshots-2.png)
 
 #### Reference Table
 

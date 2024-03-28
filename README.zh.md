@@ -27,9 +27,9 @@ RegexMate 是一款正则表达式应用程序，支持 macOS 和 iOS 平台。�
 
 #### 简约的用户界面
 
-![RegexMate screenshots-2](./assets/screenshots-2-cn.png)
-
 忘记按钮和菜单吧。只需输入您的模式，测试表达式，即可立即查看结果。
+
+![RegexMate screenshots-2](./assets/screenshots-2-cn.png)
 
 #### 参考表
 
