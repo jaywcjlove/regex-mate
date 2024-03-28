@@ -11,6 +11,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate AppStore"><img alt="RegexMate AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51"></a>
+    <a href="https://apps.apple.com/app/regex-mate/id6479819388?platform=iphone" title="RegexMate for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="RegexMate AppStore" height="51"></a>
     <a target="_blank" href="https://www.producthunt.com/posts/regexmate?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-regexmate" title="RegexMate - Master&#0032;Regular&#0032;Expressions | Product Hunt"><img alt="RegexMate AppStore" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=446567&theme=dark" alt="RegexMate - Master&#0032;Regular&#0032;Expressions | Product Hunt" height="51"><!--rehype:style=display: block;height: 49px;-->
     </a><!--rehype:style=border: 1px solid #a6a6a6;display: inline-block;border-radius: 10px;-->
   </p>
@@ -19,9 +20,11 @@
 
 RegexMate is a beautifully designed regex app built exclusively for macOS. With a clean and intuitive interface, it empowers you to craft and test regular expressions with ease.
 
-![RegexMate screenshots-1](./assets/screenshots-1.png)
+![RegexMate screenshots-4](./assets/screenshots-4.png)
 
 ### Key Features:
+
+![RegexMate screenshots-1](./assets/screenshots-1.png)
 
 #### Minimalist UI
 

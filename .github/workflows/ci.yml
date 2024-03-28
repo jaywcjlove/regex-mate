@@ -33,9 +33,9 @@ jobs:
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
             - <meta property="og:image" content="<%=homepage%>assets/logo.png">
             - <meta property="og:type" content="website">
-            - <meta property="og:title" content="<%= site %> - idoc">
+            - <meta property="og:title" content="<%= site %> - <%= description%>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-2.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-4.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
