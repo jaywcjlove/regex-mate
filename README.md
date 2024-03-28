@@ -18,7 +18,7 @@
 </div>
 
 
-RegexMate is a beautifully designed regex app built exclusively for macOS. With a clean and intuitive interface, it empowers you to craft and test regular expressions with ease.
+RegexMate is a regular expression application available for macOS and iOS. It features a clean user interface and powerful functionalities, enabling users to easily create, test, and utilize regular expressions.
 
 ![RegexMate screenshots-4](./assets/screenshots-4.png)
 
