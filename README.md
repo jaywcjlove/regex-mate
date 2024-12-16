@@ -2,14 +2,14 @@
 	<br />
 	<br />
 	<img src="./assets/logo.png" alt="RegexMate LOGO" width="160" height="160">
+	<h1>RegexMate</h1>
+  <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
     <a href="https://apps.apple.com/app/regex-mate/id6479819388">AppStore</a> • 
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
     <a href="https://github.com/jaywcjlove/regex-mate/releases">Changelog</a>
   </p>
-	<h1>RegexMate</h1>
-  <!--rehype:style=border: 0;-->
   <p>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate for macOS"><img alt="RegexMate for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51"></a>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388?platform=iphone" title="RegexMate for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="RegexMate for iOS" height="51"></a>
