@@ -1,6 +1,6 @@
-https://wangchujiang.com/regex-mate/index.html
 https://wangchujiang.com/regex-mate/index.zh.html
 https://wangchujiang.com/regex-mate/feedback.html
+https://wangchujiang.com/regex-mate/index.html
 https://wangchujiang.com/regex-mate/feedback.zh.html
 https://wangchujiang.com/regex-mate/terms-of-service.html
 https://wangchujiang.com/regex-mate/terms-of-service.zh.html
