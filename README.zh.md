@@ -5,7 +5,8 @@
   <p>
 		<a href="./README.md">English</a> • 
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388">AppStore</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
+		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+    <a href="https://github.com/jaywcjlove/regex-mate/releases">变更日志</a>
   </p>
 	<h1>RegexMate</h1>
   <!--rehype:style=border: 0;-->
