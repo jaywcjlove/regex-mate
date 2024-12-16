@@ -13,8 +13,6 @@
   <p>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate for macOS"><img alt="RegexMate for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51"></a>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388?platform=iphone" title="RegexMate for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="RegexMate for iOS" height="51"></a>
-    <a target="_blank" href="https://www.producthunt.com/posts/regexmate?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-regexmate" title="RegexMate - Master&#0032;Regular&#0032;Expressions | Product Hunt"><img alt="RegexMate" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=446567&theme=dark" alt="RegexMate - Master&#0032;Regular&#0032;Expressions | Product Hunt" height="51"><!--rehype:style=display: block;height: 49px;-->
-    </a><!--rehype:style=border: 1px solid #a6a6a6;display: inline-block;border-radius: 10px;-->
   </p>
 </div>
 
