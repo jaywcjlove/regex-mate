@@ -3,7 +3,7 @@
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-### Privacy Policy  
+Privacy Policy  
 ===  
 
 Thank you for using RegexMate! We value your privacy and are committed to protecting any personal information you provide while using our app. This privacy policy outlines how we collect, use, disclose, and safeguard your information.  
