@@ -19,17 +19,17 @@
 
 RegexMate is a regular expression application available for macOS and iOS. It features a clean user interface and powerful functionalities, enabling users to easily create, test, and utilize regular expressions.
 
-![RegexMate screenshots-4](./assets/screenshots-4.png)
+![RegexMate 4](./assets/screenshots-4.png)
 
 ### Key Features:
 
-![RegexMate screenshots-1](./assets/screenshots-1.png)
+![RegexMate 1](./assets/screenshots-1.png)
 
 #### Minimalist UI
 
 Forget buttons and menus. Simply type your pattern, test your expression, and see the results instantly.
 
-![RegexMate screenshots-2](./assets/screenshots-2.png)
+![RegexMate 2](./assets/screenshots-2.png)
 
 #### Reference Table
 
@@ -45,6 +45,6 @@ Save your frequently used expressions for quick access and reference at any time
 
 #### Light & Dark Mode
 
-![RegexMate screenshots-4](./assets/screenshots-3.png)
+![RegexMate 4](./assets/screenshots-3.png)
 
 Love the dark aesthetic? RegexMate has you covered. But if you're craving a fresh look, switch to Light mode anytime.
