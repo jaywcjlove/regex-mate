@@ -14,10 +14,26 @@ jobs:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
 
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="Iconize Folder for macOS">
+              <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "RegexMate"
+          site: "RegexMate {{version:${{ steps.create_tag.outputs.version }}}}"
           description: RegexMate is a beautifully designed regex app built exclusively for macOS. With a clean and intuitive interface, it empowers you to craft and test regular expressions with ease.
           keywords: regex,expression,pattern matching,developer tools,productivity
           favicon: assets/logo.png
@@ -77,19 +93,3 @@ jobs:
           commit_message: ${{ github.event.head_commit.message }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-
-      - name: Create Tag
-        id: create_tag
-        uses: jaywcjlove/create-tag-action@main
-        with:
-          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
-
-      - name: Create Tag
-        uses: jaywcjlove/create-tag-action@main
-        with:
-          version: ${{ steps.create_tag.outputs.version }}
-          release: true
-          body: |
-            <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="Iconize Folder for macOS">
-              <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-            </a>
