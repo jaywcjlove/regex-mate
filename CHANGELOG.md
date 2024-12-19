@@ -5,6 +5,16 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+### Changelog  
+
+## v2.0.1
+
+- fix: Resolved the unresponsive behavior of the donation button.  
+
+---
+
+- 修复： 修复了捐赠按钮无响应的问题。  
+
 ## v2.0.0
 
 - Fix: Fixed sponsorship recovery issue 
