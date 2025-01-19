@@ -5,7 +5,17 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-### Changelog  
+## v3.0.0
+
+1. doc: Update reference documentation
+2. style: Modify regex match color
+3. style: Modify documentation layout style
+
+---
+
+1. doc: 更新参考文档
+2. style: 修改正则匹配颜色
+3. style: 修改文档布局样式
 
 ## v2.0.1
 
