@@ -5,7 +5,15 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## v3.0.0
+## [v3.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.1.0)
+
+1. feat: add regex examples documentation.
+
+---
+
+1. 新增：新增正则表达式示例的文档。
+
+## [v3.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.0.0)
 
 1. doc: Update reference documentation
 2. style: Modify regex match color
@@ -17,7 +25,7 @@ Changelog
 2. style: 修改正则匹配颜色
 3. style: 修改文档布局样式
 
-## v2.0.1
+## [v2.0.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v2.0.1)
 
 - fix: Resolved the unresponsive behavior of the donation button.  
 
