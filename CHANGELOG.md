@@ -5,6 +5,17 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.1.1)
+
+1. style: Adjust layout of iOS sponsorship page.
+2. fix: Fixed issue with receipt verification.
+
+---
+
+1. fix: 修复了收据验证问题。
+2. style: 调整 iOS 赞助页面排版。
+
+
 ## [v3.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.1.0)
 
 1. feat: add regex examples documentation.
