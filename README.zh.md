@@ -7,7 +7,7 @@
   <p>
 		<a href="./README.md">English</a> • 
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388">AppStore</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/regex-mate/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="https://github.com/jaywcjlove/regex-mate/releases">变更日志</a>
   </p>
   <p>

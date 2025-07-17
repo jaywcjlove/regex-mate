@@ -8,7 +8,8 @@
 		<a href="./README.zh.md">中文</a> • 
     <a href="https://apps.apple.com/app/regex-mate/id6479819388">AppStore</a> • 
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/regex-mate/releases">Changelog</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/regex-mate/issues/new?template=bug_report.yml">Contact & Support</a> • 
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate for macOS"><img alt="RegexMate for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51"></a>
