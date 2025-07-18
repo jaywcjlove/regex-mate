@@ -5,6 +5,13 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.2.0)
+
+1. feat: Add Japanese documentation.
+2. fix: Fix main menu issue.
+3. chore: Update sponsor page description.
+4. chore: Update command menu.
+
 ## [v3.1.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.1.1)
 
 1. style: Adjust layout of iOS sponsorship page.

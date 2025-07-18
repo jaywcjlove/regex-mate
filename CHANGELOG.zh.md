@@ -5,6 +5,13 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.2.0)
+
+1. 新增：添加日文文档。
+2. 修复：修复主菜单问题。
+3. 其他：更新赞助界面描述。
+4. 其他：更新命令菜单。
+
 ## [v3.1.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.1.1)
 
 1. fix: 修复了收据验证问题。
