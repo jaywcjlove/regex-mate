@@ -5,6 +5,11 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.0)
+
+1. feat: Support regular expression flags.
+2. fix: Correct spelling mistakes.
+
 ## [v3.2.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.2.0)
 
 1. feat: Add Japanese documentation.
