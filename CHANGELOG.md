@@ -5,6 +5,11 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.1)
+
+1. fix: avoid publishing changes during view updates.
+2. perf: optimize text diff in input field.
+
 ## [v3.3.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.0)
 
 1. feat: Support regular expression flags.

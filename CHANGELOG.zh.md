@@ -5,6 +5,11 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.1)
+
+1. fix: 避免在视图更新时发布更改。
+2. perf: 优化输入框中的文本差异比对。
+
 ## [v3.3.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.0)
 
 1. 新增：支持正则表达式 flags。
