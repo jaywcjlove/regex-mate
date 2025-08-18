@@ -1,6 +1,6 @@
 <!--idoc:ignore:start-->
 > [!TIP]
-> This repository serves a dual purpose: it hosts the source code for Vidwall's official website and acts as a platform for collecting user feedback and tracking issues. This approach allows us to meet the website requirement for app store approval without incurring extra costs.
+> This repository serves a dual purpose: it hosts the source code for RegexMate's official website and acts as a platform for collecting user feedback and tracking issues. This approach allows us to meet the website requirement for app store approval without incurring extra costs.
 <!--idoc:ignore:end-->
 
 <div align="center">
