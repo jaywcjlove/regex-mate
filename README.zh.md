@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> 本仓库既是 Vidwall 官网的源码，也是我们收集用户反馈和追踪问题的平台。我们这样做是为了在不增加额外成本的前提下，满足应用通过应用商店审核所必需的官网要求。
+<!--idoc:ignore:end-->
+
 <div align="center">
 	<br />
 	<br />

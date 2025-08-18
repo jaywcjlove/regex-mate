@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> This repository serves a dual purpose: it hosts the source code for Vidwall's official website and acts as a platform for collecting user feedback and tracking issues. This approach allows us to meet the website requirement for app store approval without incurring extra costs.
+<!--idoc:ignore:end-->
+
 <div align="center">
 	<br />
 	<br />
@@ -15,7 +20,6 @@
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388?platform=iphone" title="RegexMate for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="RegexMate for iOS" height="51"></a>
   </p>
 </div>
-
 
 RegexMate is a regular expression application available for macOS and iOS. It features a clean user interface and powerful functionalities, enabling users to easily create, test, and utilize regular expressions.
 
