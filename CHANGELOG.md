@@ -5,6 +5,10 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.0.0)
+
+1. feat: add support for macOS 26.
+
 ## [v3.3.1](https://github.com/jaywcjlove/regex-mate/releases/tag/v3.3.1)
 
 1. fix: avoid publishing changes during view updates.
