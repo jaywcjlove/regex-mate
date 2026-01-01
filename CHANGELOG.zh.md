@@ -5,6 +5,13 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.1.0)
+
+1. feat: 禁用侧边栏隐藏。
+2. style: 将添加删除工具放到工具栏。
+3. fix: 修复国际化显示错误。
+4. fix: 解决付费解锁验证错误问题。
+
 ## [v4.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.0.0)
 
 1. feat: 添加对 macOS 26 的支持。

@@ -5,6 +5,13 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v4.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.1.0)
+
+1. feat: Disable sidebar hiding. 
+2. style: Move add and remove tools to the toolbar. 
+3. fix: Fix internationalization display error. 
+4. fix: Resolve issue with paid unlock verification error. 
+
 ## [v4.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.0.0)
 
 1. feat: add support for macOS 26.
