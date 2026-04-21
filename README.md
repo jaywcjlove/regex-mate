@@ -11,15 +11,15 @@
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
-    <a href="https://apps.apple.com/app/regex-mate/id6479819388">AppStore</a> • 
+    <a href="https://jaywcjlove.github.io/maslink/?id=6479819388">AppStore</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/regex-mate/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388?platform=mac" title="RegexMate for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388&platform=mac" title="RegexMate for macOS">
       <img src="https://jaywcjlove.github.io/sb/download/macos.svg" alt="RegexMate for macOS" height="51">
     </a>
-    <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388?platform=iphone" title="RegexMate for iOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388&platform=iphone" title="RegexMate for iOS">
       <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="RegexMate for iOS" height="51">
     </a>
   </p>

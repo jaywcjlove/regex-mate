@@ -1,7 +1,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388" title="RegexMate for macOS">
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
