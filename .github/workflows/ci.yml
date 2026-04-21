@@ -8,10 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
 
       - name: Create Tag
@@ -26,7 +26,7 @@ jobs:
           version: ${{ steps.create_tag.outputs.version }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/regex-mate/id6479819388" title="RegexMate for macOS">
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388" title="RegexMate for macOS">
               <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
 
