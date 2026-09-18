@@ -5,6 +5,12 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v5.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v5.0.0)
+
+1. feat: 支持全新优惠码兑换功能
+2. feat: 更新应用图标
+3. fix: 修复速查手册选项卡样式异常
+
 ## [v4.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.1.0)
 
 1. feat: 禁用侧边栏隐藏。

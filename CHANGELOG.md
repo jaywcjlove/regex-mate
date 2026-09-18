@@ -5,6 +5,12 @@ Changelog
   <img alt="RegexMate AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v5.0.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v5.0.0)
+
+1. feat: support new promo code redemption.
+2. feat: Update App icon.
+3. fix: fix style issue of quick reference manual tab.
+
 ## [v4.1.0](https://github.com/jaywcjlove/regex-mate/releases/tag/v4.1.0)
 
 1. feat: Disable sidebar hiding. 

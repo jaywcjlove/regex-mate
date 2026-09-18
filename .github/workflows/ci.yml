@@ -47,11 +47,11 @@ jobs:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/logo.png">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.png">
             - <meta property="og:type" content="website">
             - <meta property="og:title" content="<%= site %> - <%= description%>">
             - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-4.png">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.png">
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
@@ -71,12 +71,6 @@ jobs:
             - README.zh.md
             - CHANGELOG.md
             - CHANGELOG.zh.md
-            - feedback.md
-            - feedback.zh.md
-            - terms-of-service.md
-            - terms-of-service.zh.md
-            - privacy-policy.md
-            - privacy-policy.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
@@ -87,7 +81,7 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
-      - run: cp assets/twitter.png ./dist/assets
+      - run: cp assets/social-preview.png ./dist/assets
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
